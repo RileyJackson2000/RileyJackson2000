@@ -1,4 +1,4 @@
-<img src="lighthousebanner.jpg">
+<img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fbahamaslaw.com%2Fabout-us%2Fparadise-banner-2%2F&psig=AOvVaw0tL172FXoVatKU__QVQHYS&ust=1596148667544000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDKj6nD8-oCFQAAAAAdAAAAABAD">
 <!-- ### Hi there 👋 -->
 
 <!--
