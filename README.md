@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fbahamaslaw.com%2Fabout-us%2Fparadise-banner-2%2F&psig=AOvVaw0tL172FXoVatKU__QVQHYS&ust=1596148667544000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDKj6nD8-oCFQAAAAAdAAAAABAD">
+<img src="https://lh3.googleusercontent.com/proxy/6o3kLR1wksHHEaqvGGDnpFOcvPGa9yAcOt4YhwQbUVBTj5Eb8MXwc6DPCNp1WWmg41Q1iZq-HIeYApiZifS4aS7zlfJMVNLnaaHk2JU3vYCCzLS_XpFPNUvdVJQ99Q">
 <!-- ### Hi there 👋 -->
 
 <!--
