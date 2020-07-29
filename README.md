@@ -1,4 +1,6 @@
-<img src="https://lh3.googleusercontent.com/proxy/6o3kLR1wksHHEaqvGGDnpFOcvPGa9yAcOt4YhwQbUVBTj5Eb8MXwc6DPCNp1WWmg41Q1iZq-HIeYApiZifS4aS7zlfJMVNLnaaHk2JU3vYCCzLS_XpFPNUvdVJQ99Q">
+<p align="center">
+  <img width="600" src="https://lh3.googleusercontent.com/proxy/6o3kLR1wksHHEaqvGGDnpFOcvPGa9yAcOt4YhwQbUVBTj5Eb8MXwc6DPCNp1WWmg41Q1iZq-HIeYApiZifS4aS7zlfJMVNLnaaHk2JU3vYCCzLS_XpFPNUvdVJQ99Q">
+</p>
 <!-- ### Hi there 👋 -->
 
 <!--
