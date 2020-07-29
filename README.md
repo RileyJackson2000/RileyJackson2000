@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="lighthousebanner.jpg">
+<!-- ### Hi there 👋 -->
 
 <!--
 **RileyJackson2000/RileyJackson2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
